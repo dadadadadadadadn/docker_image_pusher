@@ -5,3 +5,4 @@ xhofe/alist:latest
 #支持指定架构
 --platform=linux/arm64 xiaoyaliu/alist
 yixinrushi/video_tools:slim-0.2
+shenli1120/video-tools:slim-0.2-arm64
